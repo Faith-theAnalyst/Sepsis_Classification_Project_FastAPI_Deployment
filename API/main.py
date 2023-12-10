@@ -27,7 +27,15 @@ class Sepsis(BaseModel):
     Age : int
     Insurance: int
     
+
+@app.get('/')  
+def get_home():
+    return{
+        'Welcome to the Sepsis Classification FastAPI'
+        '\n Add /docs to the url to continue'
+    }
     
+      
 @app.post('/classify')
 def sep_classification(sepsis:Sepsis):
     try:
