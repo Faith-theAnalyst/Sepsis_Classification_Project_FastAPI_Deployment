@@ -12,15 +12,14 @@ This project focuses on early sepsis detection and classification using machine 
 - [Methodology](#methodology)
 - [Integration and Deployment](#integration-and-deployment)
 - [Dataset Exploration and Preparation](#dataset-exploration-and-preparation)
-- [Framing the Research: Hypotheses and Questions](#framing-the-research-hypotheses-and-questions)
+- [Hypotheses and Questions](#framing-the-research-hypotheses-and-questions)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Univariate Analysis](#univariate-analysis)
 - [Bivariate Analysis](#bivariate-analysis)
 - [Model Development](#model-development)
 - [Model Evaluation](#model-evaluation)
 - [Web Application Interface](#web-application-interface)
-- [Testing and Validation](#testing-and-validation)
-- [Documentation](#documentation)
+
 
 ## Business Understanding
 
